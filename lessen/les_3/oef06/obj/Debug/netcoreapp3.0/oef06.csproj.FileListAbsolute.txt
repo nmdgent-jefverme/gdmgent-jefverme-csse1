@@ -1,0 +1,11 @@
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/bin/Debug/netcoreapp3.0/oef06
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/bin/Debug/netcoreapp3.0/oef06.deps.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/bin/Debug/netcoreapp3.0/oef06.runtimeconfig.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/bin/Debug/netcoreapp3.0/oef06.runtimeconfig.dev.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/bin/Debug/netcoreapp3.0/oef06.dll
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/bin/Debug/netcoreapp3.0/oef06.pdb
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/obj/Debug/netcoreapp3.0/oef06.csprojAssemblyReference.cache
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/obj/Debug/netcoreapp3.0/oef06.AssemblyInfoInputs.cache
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/obj/Debug/netcoreapp3.0/oef06.AssemblyInfo.cs
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/obj/Debug/netcoreapp3.0/oef06.dll
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/obj/Debug/netcoreapp3.0/oef06.pdb
