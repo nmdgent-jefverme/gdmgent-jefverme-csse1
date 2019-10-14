@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/oef06.csproj",
+      "projectUniqueName": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/PrintNaam/oef06.csproj",
       "projectName": "oef06",
-      "projectPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/oef06.csproj",
+      "projectPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/PrintNaam/oef06.csproj",
       "packagesPath": "/Users/jefvermeire/.nuget/packages/",
-      "outputPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef06/obj/",
+      "outputPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/PrintNaam/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jefvermeire/.nuget/NuGet/NuGet.Config"

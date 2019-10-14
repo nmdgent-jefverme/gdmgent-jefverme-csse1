@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/oef04.csproj": {}
+    "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/oef04.csproj": {}
   },
   "projects": {
-    "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/oef04.csproj": {
+    "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/oef04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/oef04.csproj",
+        "projectUniqueName": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/oef04.csproj",
         "projectName": "oef04",
-        "projectPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/oef04.csproj",
+        "projectPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/oef04.csproj",
         "packagesPath": "/Users/jefvermeire/.nuget/packages/",
-        "outputPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/obj/",
+        "outputPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jefvermeire/.nuget/NuGet/NuGet.Config"

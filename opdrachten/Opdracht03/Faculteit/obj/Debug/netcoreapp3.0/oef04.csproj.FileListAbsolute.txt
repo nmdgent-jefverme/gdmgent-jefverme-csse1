@@ -9,3 +9,14 @@
 /Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/bin/Debug/netcoreapp3.0/oef04.pdb
 /Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/obj/Debug/netcoreapp3.0/oef04.dll
 /Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef04/obj/Debug/netcoreapp3.0/oef04.pdb
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/bin/Debug/netcoreapp3.0/oef04
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/bin/Debug/netcoreapp3.0/oef04.deps.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/bin/Debug/netcoreapp3.0/oef04.runtimeconfig.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/bin/Debug/netcoreapp3.0/oef04.runtimeconfig.dev.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/bin/Debug/netcoreapp3.0/oef04.dll
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/bin/Debug/netcoreapp3.0/oef04.pdb
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/obj/Debug/netcoreapp3.0/oef04.csprojAssemblyReference.cache
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/obj/Debug/netcoreapp3.0/oef04.AssemblyInfoInputs.cache
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/obj/Debug/netcoreapp3.0/oef04.AssemblyInfo.cs
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/obj/Debug/netcoreapp3.0/oef04.dll
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Faculteit/obj/Debug/netcoreapp3.0/oef04.pdb

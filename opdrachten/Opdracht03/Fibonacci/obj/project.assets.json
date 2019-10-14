@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef05/oef05.csproj",
+      "projectUniqueName": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Fibonacci/oef05.csproj",
       "projectName": "oef05",
-      "projectPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef05/oef05.csproj",
+      "projectPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Fibonacci/oef05.csproj",
       "packagesPath": "/Users/jefvermeire/.nuget/packages/",
-      "outputPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/lessen/les_3/oef05/obj/",
+      "outputPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht03/Fibonacci/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jefvermeire/.nuget/NuGet/NuGet.Config"

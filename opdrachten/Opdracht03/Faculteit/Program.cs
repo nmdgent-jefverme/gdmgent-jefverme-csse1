@@ -13,7 +13,7 @@ namespace oef04
             {
                 a = a * i;
             }
-            Console.WriteLine(a);
+            Console.WriteLine("De faculteit van "+ faculteit + " = " +a);
         }
     }
 }
