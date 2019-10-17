@@ -39,6 +39,7 @@ namespace oef03
                  Console.WriteLine(a + " x " + b + " = " + a * b);
                  a ++;
             }
+            Console.WriteLine('test');
         }
     }
 }
