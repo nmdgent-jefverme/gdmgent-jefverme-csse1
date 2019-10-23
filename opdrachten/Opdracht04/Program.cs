@@ -15,7 +15,7 @@ namespace voorbereiding
         static int vermenigvuldigen(int a = getal1, int b = getal2){
             return a * b;
         }
-        static double delen(int a = getal1, int b = getal2){
+        static double delen(double a = (double)getal1, double b = (double)getal2){
             return a / b;
         }
         static void Main(string[] args)

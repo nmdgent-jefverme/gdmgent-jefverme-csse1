@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\lessen\\les_5\\voorbereiding\\voorbereiding.csproj",
+      "projectUniqueName": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht04\\voorbereiding.csproj",
       "projectName": "voorbereiding",
-      "projectPath": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\lessen\\les_5\\voorbereiding\\voorbereiding.csproj",
+      "projectPath": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht04\\voorbereiding.csproj",
       "packagesPath": "C:\\Users\\jef_v\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\lessen\\les_5\\voorbereiding\\obj\\",
+      "outputPath": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

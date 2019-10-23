@@ -9,3 +9,14 @@ C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\lessen\les_5\voorbereidin
 C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\lessen\les_5\voorbereiding\bin\Debug\netcoreapp3.0\voorbereiding.pdb
 C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\lessen\les_5\voorbereiding\obj\Debug\netcoreapp3.0\voorbereiding.dll
 C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\lessen\les_5\voorbereiding\obj\Debug\netcoreapp3.0\voorbereiding.pdb
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\obj\Debug\netcoreapp3.0\voorbereiding.csprojAssemblyReference.cache
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\obj\Debug\netcoreapp3.0\voorbereiding.AssemblyInfoInputs.cache
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\obj\Debug\netcoreapp3.0\voorbereiding.AssemblyInfo.cs
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\obj\Debug\netcoreapp3.0\voorbereiding.dll
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\obj\Debug\netcoreapp3.0\voorbereiding.pdb
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\bin\Debug\netcoreapp3.0\voorbereiding.exe
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\bin\Debug\netcoreapp3.0\voorbereiding.deps.json
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\bin\Debug\netcoreapp3.0\voorbereiding.runtimeconfig.json
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\bin\Debug\netcoreapp3.0\voorbereiding.runtimeconfig.dev.json
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\bin\Debug\netcoreapp3.0\voorbereiding.dll
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht04\bin\Debug\netcoreapp3.0\voorbereiding.pdb
