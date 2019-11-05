@@ -1,0 +1,11 @@
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\bin\Debug\netcoreapp3.0\Opdracht05.exe
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\bin\Debug\netcoreapp3.0\Opdracht05.deps.json
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\bin\Debug\netcoreapp3.0\Opdracht05.runtimeconfig.json
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\bin\Debug\netcoreapp3.0\Opdracht05.runtimeconfig.dev.json
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\bin\Debug\netcoreapp3.0\Opdracht05.dll
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\bin\Debug\netcoreapp3.0\Opdracht05.pdb
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\obj\Debug\netcoreapp3.0\Opdracht05.csprojAssemblyReference.cache
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\obj\Debug\netcoreapp3.0\Opdracht05.AssemblyInfoInputs.cache
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\obj\Debug\netcoreapp3.0\Opdracht05.AssemblyInfo.cs
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\obj\Debug\netcoreapp3.0\Opdracht05.dll
+C:\Users\jef_v\Desktop\GitRepos\gdmgent-jefverme-csse1\opdrachten\Opdracht05\obj\Debug\netcoreapp3.0\Opdracht05.pdb
