@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht05/Opdracht05.csproj": {}
+    "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht05\\Opdracht05.csproj": {}
   },
   "projects": {
-    "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht05/Opdracht05.csproj": {
+    "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht05\\Opdracht05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht05/Opdracht05.csproj",
+        "projectUniqueName": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht05\\Opdracht05.csproj",
         "projectName": "Opdracht05",
-        "projectPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht05/Opdracht05.csproj",
-        "packagesPath": "/Users/jefvermeire/.nuget/packages/",
-        "outputPath": "/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht05/obj/",
+        "projectPath": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht05\\Opdracht05.csproj",
+        "packagesPath": "C:\\Users\\jef_v\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jef_v\\Desktop\\GitRepos\\gdmgent-jefverme-csse1\\opdrachten\\Opdracht05\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/jefvermeire/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jef_v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
