@@ -164,7 +164,7 @@ namespace Opdracht05
             SchrijfLog("8. Faculteit berekenen");
             SchrijfLog("9. Rij van fibonaci printen");
             SchrijfLog("10. Programma stoppen");
-            SchrijfLog("Geef een nummer in tussen 1 en 8.");
+            SchrijfLog("Geef een nummer in tussen 1 en 10.");
         }
         static void Main(string[] args)
         {
