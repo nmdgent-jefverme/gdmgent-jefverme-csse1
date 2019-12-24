@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Opdracht08
 {
     // 
-    public interface IUitgave
+    public interface IKrant
     {
         void BuildHeader();
         
@@ -13,7 +13,7 @@ namespace Opdracht08
         void BuildAdvertisement();
     }
     
-    public class Metro : IUitgave
+    public class Metro : IKrant
     {
         private Content _content = new Content();
 
@@ -56,7 +56,7 @@ namespace Opdracht08
         }
     }
 
-    public class Nieuwsblad : IUitgave
+    public class Nieuwsblad : IKrant
     {
         private Content _content = new Content();
 
@@ -125,9 +125,9 @@ namespace Opdracht08
     
     public class Director
     {
-        private IUitgave _builder;
+        private IKrant _builder;
         
-        public IUitgave Builder
+        public IKrant Builder
         {
             set { _builder = value; } 
         }
